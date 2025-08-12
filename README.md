@@ -6,6 +6,5 @@ For clarity and organization, the following structure is recommended for listing
 
 **Netflix**
 
-asasandboy12821@gmail.com
-
-qYXnLLn5
+- asasandboy12821@gmail.com
+- qYXnLLn5
